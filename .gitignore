@@ -1,0 +1,10 @@
+UnityCustomShaders/Library/
+UnityCustomShaders/Packages/
+UnityCustomShaders/ProjectSettings/
+UnityCustomShaders/Temp/
+UnityCustomShaders/UserSettings/
+UnityCustomShaders/.vsconfig
+UnityCustomShaders/.vs/
+UnityCustomShaders/Assets/Sprites/
+*.meta
+UnityCustomShaders/UnityCustomShaders.sln
